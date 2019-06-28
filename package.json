@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "ftp-deploy": "^2.3.3",
     "gatsby": "^2.7.5",
     "gatsby-cli": "^2.6.5",
     "gatsby-image": "^2.1.2",
@@ -13,6 +14,7 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sass": "^2.0.11",
     "gatsby-plugin-sharp": "^2.1.2",
+    "gatsby-plugin-sitemap": "^2.2.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.0.37",
     "gatsby-transformer-sharp": "^2.1.20",
@@ -31,10 +33,11 @@
   ],
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby build && node deploy",
+    "start": "npm run develop",
     "build": "gatsby build --output-dir",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },

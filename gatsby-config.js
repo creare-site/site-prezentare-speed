@@ -1,8 +1,9 @@
 module.exports = {
     siteMetadata: {
-        title: `HiStaff`,
-        description: `Make your Staff and Workspace Happy`,
+		title: 'Gatsby Starter - Styled in SCSS | AppSeed',
+        description: `Open-Source Gatsby Starter with SCSS Styling`,
         author: `@mostafasoufi`,
+		siteUrl: `https://gatsby-starter-scss.appseed.us`
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
@@ -27,6 +28,7 @@ module.exports = {
                 icon: `${__dirname}/static/images/histaff.png`, // This path is relative to the root of the site.
             },
         },
+        'gatsby-plugin-sitemap',
         `gatsby-plugin-sass`,
         {
             resolve: 'gatsby-plugin-web-font-loader',
