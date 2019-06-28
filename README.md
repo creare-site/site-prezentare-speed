@@ -20,7 +20,7 @@
 2. **Create a Gatsby app.**
 
    ```sh
-   https://github.com/app-generator/gatsby-starter-scss
+   gatsby new gatsby-starter-scss https://github.com/app-generator/gatsby-starter-scss
    ```
 
 3. **Start the site in `develop` mode.**
