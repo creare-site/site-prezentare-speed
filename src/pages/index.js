@@ -18,7 +18,7 @@ var videoStyle = {
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Make your Staff and Workspace Happy"/>
+        <SEO title="Open-Source Gatsby Starter with SCSS Styling"/>
 
         <div className={"page-header home"}>
             <h1>Gatsby Starter</h1>
