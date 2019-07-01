@@ -21,10 +21,10 @@ const IndexPage = () => (
         <SEO title="Open-Source Gatsby Starter with SCSS Styling"/>
 
         <div className={"page-header home"}>
-            <h1>Gatsby Starter</h1>
+            <h1><a href="https://www.gatsbyjs.org/">GatsbyJS</a> SCSS Starter</h1>
             <p>
                 Blazing fast <a href="https://github.com/app-generator/gatsby-starter-scss">open-source</a>  app, 
-                built in <a href="https://www.gatsbyjs.org/">GatsbyJS</a> and styled in SCSS.
+                built in GatsbyJS and styled in SCSS.
             </p>
 
             <br />

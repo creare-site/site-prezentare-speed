@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-		title: 'Gatsby Starter - Styled in SCSS | AppSeed',
+		title: 'Gatsby - SCSS Starter',
         description: `Open-Source Gatsby Starter with SCSS Styling`,
         author: `@Sm0keDev`,
 		siteUrl: `https://gatsby-starter-scss.appseed.us`
