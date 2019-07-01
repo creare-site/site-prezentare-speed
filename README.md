@@ -6,9 +6,11 @@
 
 </p>
 
-## [GatsbyJs](https://www.gatsbyjs.org/) starter - 
+<br />
 
-Styled in SCSS
+## [GatsbyJs](https://www.gatsbyjs.org/) Starter
+
+It's a starter static website which useful plugins based on Gatsby and styled via SCSS.
 
 ## 🚀 Quick start
 
