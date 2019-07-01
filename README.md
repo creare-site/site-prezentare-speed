@@ -10,7 +10,9 @@
 
 ## [GatsbyJs](https://www.gatsbyjs.org/) Starter
 
-It's a starter static website which useful plugins based on Gatsby and styled via SCSS.
+It's a static starter based on Gatsby and styled via SCSS - [live demo](https://gatsby-starter-scss.appseed.us/)
+
+<br />
 
 ## 🚀 Quick start
 
@@ -41,12 +43,19 @@ It's a starter static website which useful plugins based on Gatsby and styled vi
 
 At this point, you’ve got a fully functional Gatsby website. For additional information on how you can customize your Gatsby site, see our [plugins](https://gatsbyjs.org/plugins/) and [the official tutorial](https://gatsbyjs.org/tutorial/).
 
+<br />
+
 ## 🧐 Features
 * Support SCSS
 * Web font loader (Google and custom font)
 * Sample pages for starter
 * Clean code and structure
 
+<br />
+
 ## Credits
 * coded on top of this [starter](https://github.com/histaff/website-static/)
 * Video [Formula E Car vs Cheetah](https://www.youtube.com/watch?v=8-9oFxYFODE)  
+
+---
+Coded by [Sm0ke](https://twitter.com/Sm0keDev)
