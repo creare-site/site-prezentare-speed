@@ -45,6 +45,12 @@ At this point, you’ve got a fully functional Gatsby website. For additional in
 
 <br />
 
+<p align="center">
+
+![GatsbyJs SCSS Starter](https://github.com/app-generator/static/blob/master/gatsbyjs-starters/gatsbyjs-starters-scss-lighthouse-score.jpg?raw=true)
+
+</p>
+
 ## 🧐 Features
 * Support SCSS
 * Web font loader (Google and custom font)
