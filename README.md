@@ -54,8 +54,8 @@ At this point, you’ve got a fully functional Gatsby website. For additional in
 <br />
 
 ## Credits
-* coded on top of this [starter](https://github.com/histaff/website-static/)
+* Coded on top of this [starter](https://github.com/histaff/website-static/)
 * Video [Formula E Car vs Cheetah](https://www.youtube.com/watch?v=8-9oFxYFODE)  
 
 ---
-Coded by [Sm0ke](https://twitter.com/Sm0keDev)
+Enhanced by [Sm0ke](https://twitter.com/Sm0keDev)
