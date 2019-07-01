@@ -5,9 +5,10 @@
 ![GatsbyJs SCSS Starter - Animated intro](https://raw.githubusercontent.com/app-generator/static/master/gatsby-starter-scss/gatsby-starter-scss-intro.gif)
 
 </p>
-<h1 align="center">
-  [GatsbyJs](https://www.gatsbyjs.org/) starter - Styled in SCSS
-</h1>
+
+## [GatsbyJs](https://www.gatsbyjs.org/) starter - 
+
+Styled in SCSS
 
 ## 🚀 Quick start
 
