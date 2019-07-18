@@ -21,10 +21,11 @@ const IndexPage = () => (
         <SEO title="Open-Source Gatsby Starter with SCSS Styling"/>
 
         <div className={"page-header home"}>
-            <h1><a href="https://www.gatsbyjs.org/">GatsbyJS</a> SCSS Starter</h1>
+            <h1>
+                Creare Site
+            </h1>
             <p>
-                Blazing fast <a href="https://github.com/app-generator/gatsby-starter-scss">open-source</a>  app, 
-                built in GatsbyJS and styled in SCSS.
+                Site de presentare, simplu si rapid. Un produs <a href="https://websitemarket.ro/?ref=site-speed">WebsiteMarket</a>
             </p>
 
             <br />
@@ -55,9 +56,9 @@ const IndexPage = () => (
                             <div className={"feature__content"}>
                                 <h2>Open-Source</h2>
                                 <p>
-                                    Gatsby Starter, released under the MIt license, suitable for hobby or commercial projects. 
+                                    Acest website este un produs open-source, adica oricine poate visualiza codul sursa.
                                     <br />
-                                    Grab the <a href="https://github.com/app-generator/gatsby-starter-scss">sources</a> and start coding.  
+                                    Aflati mai multe informatii accesand WebsiteMarket.  
                                 </p>
                             </div>
                         </div>
@@ -68,10 +69,9 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Built in Gatsby</h2>
+                                <h2>Rapid si Simplu</h2>
                                 <p>
-                                    Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
-                                    Read the <a href="https://www.gatsbyjs.org/docs/">docs</a> or grab a <a href="https://www.gatsbyjs.org/starters/?v=2">starter</a> and code your magic.
+                                    Aplicatia este construita pe o platforma de ultima generatie, sigura si rapida.
                                 </p>
                             </div>
                         </div>
@@ -94,11 +94,9 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Credits</h2>
+                                <h2>Alte Informatii</h2>
                                 <p>
-                                    Coded on top of this <a href="https://github.com/histaff/website-static/">starter</a> {' '}
-                                    by <a href="https://twitter.com/Sm0keDev">Sm0ke</a>.
-                                    <br /> Video <a href="https://www.youtube.com/watch?v=8-9oFxYFODE">Formula E Car vs Cheetah</a> 
+                                    <br /> Video Credits <a href="https://www.youtube.com/watch?v=8-9oFxYFODE">Formula E Car vs Cheetah</a> 
                                 </p>
                             </div>
                         </div>
@@ -111,12 +109,14 @@ const IndexPage = () => (
         <div className={"call-to-action"}>
             <div className={"container"}>
                 <div className={"call-to-action__content"}>
-                    <h2>Part of the open web</h2>
-                    <p>Feel free to use this starter to code your future app.</p>
+                    <h2>Produs open-source</h2>
+                    <p>
+                        Aceasta aplicatie este un produs open-source. Afla mai multe pe WebsiteMarket
+                    </p>
                 </div>
 
                 <div className={"button"}>
-                    <a href="https://github.com/app-generator/gatsby-starter-scss">Get Source Code</a>
+                    <a href="https://github.com/creare-site/site-prezentare-speed">Vezi codul sursa</a>
                 </div>
             </div>
         </div>

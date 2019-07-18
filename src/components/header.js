@@ -8,13 +8,13 @@ const Header = ({siteTitle}) => (
         <div className={"container"}>
             <div className={"top-menu"}>
                 <div className={"logo"}>
-                    <Link to="/" title={"Gatsby Starter"}>
+                    <Link to="/" title={"Creare Site"}>
                         <img alt={"Logo"} src={logo}/>
                     </Link>
                 </div>
 
                 <div className={"get-started"}>
-                    <a href="https://github.com/app-generator/gatsby-starter-scss">Get Sources</a>
+                    <a href="https://websitemarket.ro/?ref=site-speed">Comanda Site</a>
                 </div>
             </div>
         </div>

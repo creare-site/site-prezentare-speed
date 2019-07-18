@@ -36,13 +36,13 @@ const Layout = ({children}) => (
                         <div className={"col-5"}>
                             <div className={"widget__item"}>
                                 <div className={"logo"}>
-                                    <Link to="/" title={"Gatsby Starter"}>
+                                    <Link to="/" title={"Site prezentare"}>
                                         <img alt={"Logo"} src={logo}/>
                                     </Link>
                                 </div>
 
                                 <div className={"about"}>
-                                    <p>Blazing fast app, coded in GatsbyJS and styled in SCSS.</p>
+                                    <p>Site de presentare, simplu si rapid.</p>
                                 </div>
                             </div>
                         </div>
@@ -50,23 +50,9 @@ const Layout = ({children}) => (
                         <div className={"col-2"}>
                             <div className={"widget__item"}>
                                 <ul className={"links"}>
-                                    <h4>Links</h4>
+                                    <h4>Link-uri</h4>
                                     <ul>
-                                        <li><Link to="/about" title={"About Us"}>About Page</Link></li>
-                                        <li><a href="https://github.com/app-generator/gatsby-starter-scss" title={"Gatsby Starter, source code"}>Sources</a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div className={"col-3"}>
-                            <div className={"widget__item"}>
-                                <ul className={"links"}>
-                                    <h4>Related</h4>
-                                    <ul>
-                                        <li><a href="https://appseed.us/apps/gatsbyjs" title={"More Gatsbyjs Apps"}>Gatsbyjs Apps</a></li>
-                                        <li><a href="https://blog.appseed.us/gatsbyjs-is-fast-but-why/" title={"Blog Article - GatsbyJS is fast, but why?"}>Why Gatsby is Fast</a></li>
-                                        <li><a href="https://blog.appseed.us/tag/gatsbyjs/" title={"Blog Articles related to Gatsby"}>Gatsbyjs Articles</a></li>
+                                        <li><a href="https://websitemarket.ro" title={"WebsiteMarket"}>WebsiteMarket</a></li>
                                     </ul>
                                 </ul>
                             </div>
@@ -75,15 +61,15 @@ const Layout = ({children}) => (
                         <div className={"col-2"}>
                             <div className={"widget__item"}>
                                 <div className={"social"}>
-                                    <a href="https://github.com/app-generator/gatsby-starter-scss" title={"GitHub"}><img alt={"GitHub"} src={iconGitHub}/></a>
-                                    <a href="https://twitter.com/Sm0keDev" title={"Twitter"}><img alt={"Twitter"} src={iconTwitter}/></a>
+                                    <a href="https://www.twitter.com/websitemarketro/" 
+                                       title={"Twitter"}><img alt={"Twitter"} src={iconTwitter}/></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div className={"copyright"}>
-                        <p>License MIT</p>
+                        <p>&copy; <a href="https://websitemarket.ro/?ref=site-speed" title={"WebsiteMarket"}>WebsiteMarket</a></p>
                     </div>
                 </div>
             </footer>

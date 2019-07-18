@@ -1,9 +1,9 @@
 module.exports = {
     siteMetadata: {
-		title: 'Gatsby - SCSS Starter',
-        description: `Open-Source Gatsby Starter with SCSS Styling`,
-        author: `@Sm0keDev`,
-		siteUrl: `https://gatsby-starter-scss.appseed.us`
+		title: 'Creare Site - Speed | WebsiteMarket',
+        description: `Site de presentare, simplu si rapid. Un produs WebsiteMarket`,
+        author: `WebsiteMarket`,
+		siteUrl: `https://site-prezentare-speed.websitemarket.ro/`
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
