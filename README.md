@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Prezentare Speed](https://raw.githubusercontent.com/creare-site/static/master/produse/site-prezentare-speed.jpg)
+![Site Prezentare Speed](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-speed-intro.gif)
 
 <br />
 
